@@ -1,11 +1,17 @@
 # To do
-- Extração de Artigos e organização para embasamento (?) 
-- Baixar banco de dados SIM SINASC Brasil ok!
-- Visualização de dados FACETS ok!
+- Dataframe em python: Concat e Merge (?)
+
+Doing
 - Melhoria da disponibilização Frictionless (?)
 - Hipóteses de bancos de dados correlacionados (?): SIA, SIH, SISPRENATAL
 - Interoperabilidade dos dados (?): DICOM or HL7?
-- PCA introduction/explained variance
+
+Done
+- Extração de Artigos e organização para embasamento ok!
+- Baixar banco de dados SIM SINASC Brasil ok!
+- PCA introduction/explained variance concepts ok!
+- Visualização de dados FACETS ok!
+
 
 ### Repositório de Conteúdos
 [Trello AI/ML](https://trello.com/b/GWUMrieb)
