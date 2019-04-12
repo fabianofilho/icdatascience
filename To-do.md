@@ -1,5 +1,6 @@
 # To do
-- Dataframe em python: Concat e Merge (?)
+- Dataframe em python: Hashlib
+- Corr Columns
 
 Doing
 - Melhoria da disponibilização Frictionless (?)
@@ -11,7 +12,7 @@ Done
 - Baixar banco de dados SIM SINASC Brasil ok!
 - PCA introduction/explained variance concepts ok!
 - Visualização de dados FACETS ok!
-
+- Dataframe em python: Concat e Merge ok!
 
 ### Repositório de Conteúdos
 [Trello AI/ML](https://trello.com/b/GWUMrieb)
