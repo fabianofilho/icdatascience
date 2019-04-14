@@ -3,6 +3,9 @@
 ## mapa mental
 https://www.mindmeister.com/1226205287?t=YhnRjuY3Q9
 
+## foco
+- [SIM/SINASC Espírito Santo](bit.ly/sinascsim)
+
 ## download 
 - Arquivos de dados: http://www2.datasus.gov.br/DATASUS/index.php?area=0901
 - [Banco de dados por estado/ano](http://bit.ly/dadosimnasc) ok = está no drive (http://bit.ly/dadosimnasc)
