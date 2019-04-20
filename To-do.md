@@ -1,9 +1,10 @@
 # To do
-- Dataframe em python: Hashlib
+- Drop missing values
 - Corr Columns
 
 Doing
-- Melhoria da disponibilização Frictionless (?)
+- Profiling DATASUS DN e DO
+- Melhoria da disponibilização Datapackage
 - Hipóteses de bancos de dados correlacionados (?): SIA, SIH, SISPRENATAL
 - Interoperabilidade dos dados (?): DICOM or HL7?
 
@@ -13,6 +14,7 @@ Done
 - PCA introduction/explained variance concepts ok!
 - Visualização de dados FACETS ok!
 - Dataframe em python: Concat e Merge ok!
+- Dataframe em python: Hashlib ok!
 
 ### Repositório de Conteúdos
 [Trello AI/ML](https://trello.com/b/GWUMrieb)
@@ -25,7 +27,6 @@ Done
 ### Hipóteses
 - Tempo de mortalidade em diferentes estados
 - Causa de mortalidade em diferentes estados
-
 
 ## Datasus Database 
 ftp://ftp.datasus.gov.br/
@@ -90,6 +91,12 @@ Para encontrar mães e filhos correspondentes a dados correlacionados aos de ide
 
 
 ## Análises
+
+### Profiling
+- Missing
+- Skewed
+- Rejected
+- Zeros
 
 ###  Algorítmos
 - Correlação
