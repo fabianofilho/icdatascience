@@ -1,6 +1,6 @@
 # To do
 - Drop missing values
-- Corr Columns
+- Clean variables
 
 Doing
 - Profiling DATASUS DN e DO
@@ -15,6 +15,8 @@ Done
 - Visualização de dados FACETS ok!
 - Dataframe em python: Concat e Merge ok!
 - Dataframe em python: Hashlib ok!
+- Corr Columns
+
 
 ### Repositório de Conteúdos
 [Trello AI/ML](https://trello.com/b/GWUMrieb)
