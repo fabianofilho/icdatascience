@@ -17,8 +17,13 @@ Conceito:
 # Machine Learning
 
 ## Supervisionado
-— você dá um feedback do que é um e outro!
+você dá um feedback do que é um e outro!
 
+ - KNN
+ - LM
+ - LR
+ - DT e RF
+ - NNT
 ### Classificação: 
 pode ser binria ou multi-rótulo (class) / multiclasse (label)
     - Regressão logística (0 ou 1)
