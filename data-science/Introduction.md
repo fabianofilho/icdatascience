@@ -1,7 +1,10 @@
 # Big data
-* Muitos dados sendo gerados
+Conceito: Muitos dados sendo gerados
 
-## Ciencia de dados
+# Ciencia de dados
+Conceito:
+
+## Abrangência
 * Matematico de estatística
 * Machine learning
 * Ciencias da computação
@@ -9,23 +12,31 @@
 * Especialista na área
 * Pesquisa tradicional
 
+--- 
+
 # Machine Learning
 
 ## Supervisionado
 — você dá um feedback do que é um e outro!
-* Classificação: regressão logística (0 ou 1)
-        ** Diagnóstico
-        ** Imagens
-        ** Detecção de fraude
-        ** Retenção
-* Regressão
-        ** Predição da população
-** Estimativa de expectativa de vida
+
+### Classificação: 
+pode ser binria ou multi-rótulo (class) / multiclasse (label)
+    - Regressão logística (0 ou 1)
+Ex: Diagnóstico, imagens, detecção de fraude, retenção, SPAM.
+
+### Regressão
+    - Regressão Linear
+    - Regressão Random Forest
+    - Regressão polinomial (grau 3)]
+    - Árvore de Decisão (várias é melhor)
+Ex: Predição da média da população, Estimativa de expectativa de vida
 
 ## Não supervisionado
-* Cluster
+    - Cluster
 — agrupa em parecidos
 * Recomendação
+
+Ex: 
 
 ## Redução da dimensalidade
 ** PCA
