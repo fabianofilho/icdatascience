@@ -4,7 +4,7 @@
 install.packages("read.dbc")
 library(read.dbc)
 
-setwd("/Users/fabiano.nbgmail.com/Datasus/SIM")
+#setwd("/Users/fabiano.nbgmail.com/Datasus/SIM")
 
 dbcFiles <- dir(pattern="*.(?i)dbc")
 
