@@ -7,10 +7,31 @@ Study repo of my scientific initiation research with data science in healthcare
 - [ ] Databases 
 - [ ] Códigos
 - [ ] EDA 
+ *  'ESTCIVMAE',
+ *  'ESCMAE_x',
+ *  'CODOCUPMAE',
+ * 'CODMUNRES_x',
+ * 'GRAVIDEZ_x',
+ * 'PARTO_x',
+ * 'HORANASC',
+ * 'SEXO_x', 
+ * 'RACACOR_x',
+ * 'IDANOMAL',
+ * 'RACACORMAE',
+ * 'TPMETESTIM',
+ * 'MESPRENAT',
+ * 'TPAPRESENT',
+ * 'STTRABPART',
+ * 'STCESPARTO',
+ * 'STDNEPIDEM',
+ *  'TPROBSON',
+ * 'PARIDADE',
+ * 'KOTELCHUCK',
 - [ ] Hipóteses
+- [ ] Stats
 - [ ] Modelos
 - [ ] Grafos
-- [ ] Stats
+
 
 ### repositório de conteúdos
 [Trello AI/ML](https://trello.com/b/GWUMrieb)
