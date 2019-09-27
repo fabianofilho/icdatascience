@@ -10,6 +10,7 @@ Study repo of my scientific initiation research with data science in healthcare
 - [ ] Hipóteses
 - [ ] Modelos
 - [ ] Grafos
+- [ ] Stats
 
 ### repositório de conteúdos
 [Trello AI/ML](https://trello.com/b/GWUMrieb)
