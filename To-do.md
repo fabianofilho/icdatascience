@@ -1,14 +1,12 @@
 # To do
-- Drop missing values
-- Clean variables
+- EDA DATASUS DN e DO
 
 Doing
-- Profiling DATASUS DN e DO
-- Melhoria da disponibilização Datapackage
-- Hipóteses de bancos de dados correlacionados (?): SIA, SIH, SISPRENATAL
-- Interoperabilidade dos dados (?): DICOM or HL7?
+- Random Forest
 
 Done
+- Drop missing values
+- Clean variables
 - Extração de Artigos e organização para embasamento ok!
 - Baixar banco de dados SIM SINASC Brasil ok!
 - PCA introduction/explained variance concepts ok!
@@ -62,10 +60,6 @@ https://www.mindmeister.com/1226205287?t=YhnRjuY3Q9
 - EM R: https://frictionlessdata.io/docs/using-data-packages-in-r/
 - http://paulfitz.github.io/dataprotocols/data-packages/
 
-### ODO (py)
-- Em Py: conversão de banco de dados com o ODO ()
-
-
 ## Interoperabilidade dos dados
 
 ### DICOM
@@ -81,7 +75,6 @@ https://www.mindmeister.com/1226205287?t=YhnRjuY3Q9
 - bem como registros médicos eletrônicos (EMR) ou eletrônicos Sistemas de registro de saúde (EHR). 
 - Atualmente, o padrão de mensagens HL7 v2.x é suportado por todos os principais fornecedores de sistemas de informações médicas nos Estados Unidos (http://www.hl7.com.br/)
 
-
 ## Testar variáveis
 
 ### Similaridade entre variáveis 
@@ -94,6 +87,28 @@ Para encontrar mães e filhos correspondentes a dados correlacionados aos de ide
 
 ## Análises
 
+### EDA
+ *  'ESTCIVMAE',
+ *  'ESCMAE_x',
+ *  'CODOCUPMAE',
+ * 'CODMUNRES_x',
+ * 'GRAVIDEZ_x',
+ * 'PARTO_x',
+ * 'HORANASC',
+ * 'SEXO_x', 
+ * 'RACACOR_x',
+ * 'IDANOMAL',
+ * 'RACACORMAE',
+ * 'TPMETESTIM',
+ * 'MESPRENAT',
+ * 'TPAPRESENT',
+ * 'STTRABPART',
+ * 'STCESPARTO',
+ * 'STDNEPIDEM',
+ *  'TPROBSON',
+ * 'PARIDADE',
+ * 'KOTELCHUCK',
+ 
 ### Profiling
 - Missing
 - Skewed
