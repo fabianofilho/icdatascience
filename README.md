@@ -2,18 +2,18 @@
 Study repo of my scientific initiation research with data science in healthcare
 
 ## conteúdo
-- [ ] Artigos 
-- [ ] Data Science e tipos de ML (machine learning)
+- [ ] Articles 
+- [ ] Data Science and types of ML (machine learning)
 - [ ] Databases 
-- [ ] Códigos
+- [ ] Code
 - [ ] EDA - Análise Exploratória de Dados
-- [ ] Hipóteses
+- [ ] Hypotesis
 - [ ] Stats
-- [ ] Modelos
-- [ ] Grafos
+- [ ] Models
+- [ ] Graphs
 
 
-### repositório de conteúdos
+### contents and links
 [Trello AI/ML](https://trello.com/b/GWUMrieb)
 
 
