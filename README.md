@@ -2,7 +2,7 @@
 Study repo of my scientific initiation research with data science in healthcare
 
 ## conteúdo
-- [ ] Articles 
+- [ ] [Drive]: Articles, Dictionary, Keynotes (http://bit.ly/simnasc)
 - [ ] Data Science and types of ML (machine learning)
 - [ ] Databases 
 - [ ] Code
@@ -11,6 +11,7 @@ Study repo of my scientific initiation research with data science in healthcare
 - [ ] Stats
 - [ ] Models
 - [ ] Graphs
+- [ ] Viz
 
 
 ### contents and links
