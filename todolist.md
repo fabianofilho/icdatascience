@@ -1,40 +1,43 @@
-# To do
-- EDA DATASUS DN e DO
+# icdatascience
 
-Doing
-- Random Forest
+## to-do / a-fazer
+- ok!
 
-Done
-- Drop missing values
-- Clean variables
-- Extração de Artigos e organização para embasamento ok!
-- Baixar banco de dados SIM SINASC Brasil ok!
-- PCA introduction/explained variance concepts ok!
-- Visualização de dados FACETS ok!
-- Dataframe em python: Concat e Merge ok!
-- Dataframe em python: Hashlib ok!
-- Corr Columns
+## doing / fazendo
+- ok!
 
+## done / feito
+- drop missing values
+- feature engineering
+- extração de artigos e organização para embasamento ok!
+- selecionar variáveis por validação científica
+- baixar banco de dados SIM-SINASC BR ok!
+- visualização de dados ok!
+- dataframe em python: Concat e Merge ok!
+- dataframe em python: Hashlib ok!
+- corr Columns ok!
+- feature importances ok!
+- modelos com vários classificadores ok!
 
-### Repositório de Conteúdos
-[Trello AI/ML](https://trello.com/b/GWUMrieb)
+----------------- 
 
-## Artigos
+## artigos
 - [Potencial de metodologias no monitoramento da mortalidade neonatal precoce](http://www.bibliotecadigital.ufmg.br/dspace/bitstream/handle/1843/ECJS-77GGPX/eliane_de_freitas_drumond_sistemas_de_informa__o_em_sa_de.pdf?sequence=1)
 - [Descritiva Mortalidade Infantil](http://jped.elsevier.es/pt-pdf-S225555361830034X)
 - [SISPRENATAL](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-89102011000500006)
+- [Metanálise de Mortalidade infantil]
 
-### Hipóteses
+### hipóteses
 - Tempo de mortalidade em diferentes estados
-- Causa de mortalidade em diferentes estados
+- Importancia de variáveis de mortalidade em diferentes estados
 
-## Datasus Database 
+## datasus database 
 ftp://ftp.datasus.gov.br/
 
-### Mapa Mental
+### mapa mental
 https://www.mindmeister.com/1226205287?t=YhnRjuY3Q9
 
-### Download 
+### download dos dados
 - Arquivos de dados: http://www2.datasus.gov.br/DATASUS/index.php?area=0901
 - [Banco de dados por estado/ano](http://bit.ly/dadosimnasc) ok = está no drive (http://bit.ly/dadosimnasc)
 - [SIM](http://www2.datasus.gov.br/DATASUS/index.php?area=0901&item=1&acao=28&pad=31655) ok!
@@ -45,38 +48,24 @@ https://www.mindmeister.com/1226205287?t=YhnRjuY3Q9
 - [Dicionário de dados](http://bit.ly/simnasc)
 - Elencar nomes de arquivos para achar o dicionário SISPRENATAL: https://filezilla-project.org/
 
-
 ## Visualisação de Dados 
-
 ### FACETS
 - https://pair-code.github.io/facets/
 ### Tableau public
 - https://public.tableau.com/en-us/s/
 
 ## Melhoria da disponibilização de dados
-
 ### Frictionless Data (em diversos formatos)
 - from Open Knowledge (https://okfn.org/projects/)
 - EM R: https://frictionlessdata.io/docs/using-data-packages-in-r/
 - http://paulfitz.github.io/dataprotocols/data-packages/
 
 ## Interoperabilidade dos dados
-
 ### DICOM
 - https://github.com/aces/DICAT</li>
 - https://pydicom.github.io/pydicom/stable/examples/metadata</em>processing/plot_anonymize.html
 
-### Health Level Seven (HL7)
-- O HL7 v2.x permitiu a interoperabilidade entre: 
--  sistemas eletrônicos de administração de pacientes (PAS)
-- gerenciamento de práticas eletrônicas (EPM)
-- sistemas de informações laboratoriais (LIS)
-- sistemas dietéticos, de farmácia e de faturamento
-- bem como registros médicos eletrônicos (EMR) ou eletrônicos Sistemas de registro de saúde (EHR). 
-- Atualmente, o padrão de mensagens HL7 v2.x é suportado por todos os principais fornecedores de sistemas de informações médicas nos Estados Unidos (http://www.hl7.com.br/)
-
 ## Testar variáveis
-
 ### Similaridade entre variáveis 
 Para encontrar mães e filhos correspondentes aos dados de identificação
 https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_de_Jaro-Winkler
@@ -84,13 +73,11 @@ https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_de_Jaro-Winkler
 ### Linkage probabilistico
 Para encontrar mães e filhos correspondentes a dados correlacionados aos de identificação
 
-
 ## Análises
-
 ### EDA
- *  'ESTCIVMAE',
- *  'ESCMAE_x',
- *  'CODOCUPMAE',
+ * 'ESTCIVMAE',
+ * 'ESCMAE_x',
+ * 'CODOCUPMAE',
  * 'CODMUNRES_x',
  * 'GRAVIDEZ_x',
  * 'PARTO_x',
@@ -105,7 +92,7 @@ Para encontrar mães e filhos correspondentes a dados correlacionados aos de ide
  * 'STTRABPART',
  * 'STCESPARTO',
  * 'STDNEPIDEM',
- *  'TPROBSON',
+ * 'TPROBSON',
  * 'PARIDADE',
  * 'KOTELCHUCK',
  
@@ -115,11 +102,7 @@ Para encontrar mães e filhos correspondentes a dados correlacionados aos de ide
 - Rejected
 - Zeros
 
-###  Algorítmos
+### Algorítmos
 - Correlação
-- Regressão 
-- Penalização
-
-###  Correlação
-- PCA and variance score: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explainedvariancescore
-
+- Classificação
+- Interpretabilidade/Explicabilidade
